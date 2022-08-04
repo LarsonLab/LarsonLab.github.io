@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Synthesizing CT from MRI in Radiation Oncology"
-author: Jess Scholey
+author: jess
 categories: [ RadiationOncology ]
 image: assets/images/MR-CT-dose_comparison.jpg
 featured: true
