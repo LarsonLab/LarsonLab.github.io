@@ -3,13 +3,13 @@ layout: post
 title:  "Synthesizing CT from MRI in Radiation Oncology"
 author: Jess Scholey
 categories: [ RadiationOncology ]
-image: assets/images/image_name.png
+image: assets/images/MR-CT-dose_comparison.jpg
 featured: true
 ---
 
 In Radiation Oncology, photons, protons, or electrons are used to treat cancer. Medical imaging is crucial in this process and allows us to visualize a patient’s tumor and healthy organs. The most common imaging modality used in radiation oncology is a computed tomography (CT) scan because it provides both anatomical information and a map of photon attenuation, which is necessary for calculating dose delivered by the radiation. However, magnetic resonance imaging (MRI) is a powerful imaging modality that can provide very helpful information, such as excellent soft tissue contrast and functional information about tumor behavior. Therefore, MRI is becoming a very popular imaging choice in radiation oncology clinics. 
 
-Figure 1. The UCSF Radiation Oncology Team having fun testing MRI sequences for imaging the pelvis. ![Vida Volunteer](../assets/images/Vida_volunteer.JPG)
+Figure 1. The UCSF Radiation Oncology Team having fun testing MRI sequences for imaging the pelvis. ![Vida Volunteer](../assets/images/Vida_volunteer.jpg)
 
 One drawback of utilizing MRI in radiation oncology is that it does not provide a map of photon attenuation which is crucial for dose calculation. This can be explained by looking at examples of bone versus air. Bone is most dense biological material and will highly attenuate a beam of radiation. Air, on the other hand (like in the lungs), is not very dense and will minimally attenuate a beam of radiation. On a CT scan, bone is bright while air is dark. On MRI scans, both bone and air appear as dark (due to low proton density of air and bone and very short transverse relaxation time of bone). Because MRI pulse sequences cannot inherently provide information on photon attenuation, patients will often receive both a CT scan (for photon attenuation information) and MRI (for anatomical visualization). 
 
