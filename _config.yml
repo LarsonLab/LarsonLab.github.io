@@ -20,7 +20,15 @@ authors:
     git_name: agentmess
     twitter: https://twitter.com/pezlarson
     description: "Fearless Leader"
-
+  
+  jess:
+    name: Jess Scholey
+    display_name: Jess Scholey
+    email: jessica.scholey@ucsf.edu
+    web: https://radonc.ucsf.edu/about/our-team/jessica-e-scholey-phd/
+    git_name: jescholey
+    twitter: https://twitter.com/jescholey
+    description: "Applying Advanced Imaging to Radiation Oncology"
 # Plugins
 plugins:
   - jekyll-paginate
