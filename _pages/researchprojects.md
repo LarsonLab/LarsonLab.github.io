@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Research Projects
-permalink: /research projects
+permalink: /researchprojects
 comments: false
 ---
