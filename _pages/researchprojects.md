@@ -5,14 +5,20 @@ permalink: /researchprojects
 comments: false
 ---
 
-### Hyperpolarized Carbon-13 Metabolic MRI
+### Hyperpolarized Carbon-13 MRI
+
+#### Hyperpolarized Carbon-13 MRI: Methods
+
+#### Hyperpolarized Carbon-13 MRI: Kidneys
+
+#### Hyperpolarized Carbon-13 MRI: Cardiac
 
 ### Lung MRI
 
 ### Myelin MRI
 
-### PET/MR
+### PET and PET/MR
 
-### Radiation Treatment Planning
+### Image Reconstruction
 
-### Prostate and Kidney Cancer Prediction using Deep Learning
+### AI Methods for Cancer Imaging
