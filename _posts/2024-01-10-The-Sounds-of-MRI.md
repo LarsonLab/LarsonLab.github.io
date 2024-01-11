@@ -3,7 +3,7 @@ layout: post
 title:  "The Sounds of MRI"
 author: peder
 categories: [ fun ]
-image: assets/images/HPBrain_MRI-Spaceship.jpg
+image: assets/images/The%20Sound%20of%20MRI.jpg
 featured: true
 ---
 When I tell people I work on MRI systems, one of the most common questions is about the sounds (or maybe described as noise, depending on your experience).  Why is it so loud?  Can you make it quieter?
