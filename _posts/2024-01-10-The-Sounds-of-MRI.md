@@ -65,9 +65,8 @@ Some clever MRI experts have realized that we can do a reasonable job at control
 
 There are fun examples of playing songs on a MRI scanner (a pretty expensive instrument!).  
 * This example uses the MRI scanner for the iconic guitar riff in Smoke on the Water by Deep Purple: <https://www.youtube.com/watch?v=CH9f8tcMAIQ>
-* The XX - Intro - MRI Cover, with some nice visualization as well: <https://youtu.be/XX0UGblIwMM?si=tas3EAz_aQtmNmA9>
+* Intro by The XX - an MRI Cover, with some nice visualization as well: <https://youtu.be/XX0UGblIwMM?si=tas3EAz_aQtmNmA9>
+* The Root Beer Rag by Billy Joel <https://youtu.be/1LgHAANKGrk?si=8UMZXUdI9ExjjIXb>
 * There is another beautiful example of MR fingerprinting, a quantitative imaging technique, making music while actually also producing good quality data:
-
 Ma, D., Pierre, E.Y., Jiang, Y., Schluchter, M.D., Setsompop, K., Gulani, V. and Griswold, M.A. (2016), Music-based magnetic resonance fingerprinting to improve patient comfort during MRI examinations. Magn. Reson. Med., 75: 2303-2314. <https://doi.org/10.1002/mrm.25818> 
-
 [Bach's Cello Suite No. 1, based on a recording by Yo-Yo Ma, played on a MRI scanner](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fmrm.25818&file=mrm25818-sup-0006-suppinfo06.mp3)
