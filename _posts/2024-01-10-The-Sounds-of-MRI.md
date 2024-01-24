@@ -34,7 +34,7 @@ Given these patterns, you can identify some characteristics of the pulse sequenc
 * large gaps in sound indicate long TR, for example in T2 weighted imaging
 * other unqiue sequence timings are distinct, such as inversion recovery which is a blip (crusher gradient after inversion pulse), delay, up to 1 s of noise (readout), and another delay
 
-You can find sounds recorded for a full MRI exam here: https://www.youtube.com/watch?v=TIsrOtSSUQY
+You can find sounds recorded for a full MRI exam here: <https://www.youtube.com/watch?v=TIsrOtSSUQY>
 
 ## Making Quieter MRI scans
 
@@ -48,7 +48,7 @@ These work by having the gradients on prior to the RF pulse so the k-space traje
 
 More info:
 
-Ljungberg, E., Damestani, N.L., Wood, T.C., Lythgoe, D.J., Zelaya, F., Williams, S.C., Solana, A.B., Barker, G.J. and Wiesinger, F., 2021. Silent zero TE MR neuroimaging: current state-of-the-art and future directions. Progress in Nuclear Magnetic Resonance Spectroscopy, 123, pp.73-93. https://doi.org/10.1016/j.pnmrs.2021.03.002 
+Ljungberg, E., Damestani, N.L., Wood, T.C., Lythgoe, D.J., Zelaya, F., Williams, S.C., Solana, A.B., Barker, G.J. and Wiesinger, F., 2021. Silent zero TE MR neuroimaging: current state-of-the-art and future directions. Progress in Nuclear Magnetic Resonance Spectroscopy, 123, pp.73-93. <https://doi.org/10.1016/j.pnmrs.2021.03.002>
 
 ## The Most Annoying MRI Scan
 
@@ -63,12 +63,10 @@ My team happens to work with one of the arguably most annoying sounding MRI scan
 
 Some clever MRI experts have realized that we can do a reasonable job at controlling the sounds that are created by a MRI scanner.
 
-There are fun examples of playing songs on a MRI scanner (a pretty expensive instrument!).  This example uses the MRI scanner for the iconic guitar riff in Smoke on the Water by Deep Purple:
-
-https://www.youtube.com/watch?v=CH9f8tcMAIQ
-
-There is another beautiful example of MR fingerprinting, a quantitative imaging technique, making music while actually also producing good quality data:
-
-Ma, D., Pierre, E.Y., Jiang, Y., Schluchter, M.D., Setsompop, K., Gulani, V. and Griswold, M.A. (2016), Music-based magnetic resonance fingerprinting to improve patient comfort during MRI examinations. Magn. Reson. Med., 75: 2303-2314. https://doi.org/10.1002/mrm.25818 
-
+There are fun examples of playing songs on a MRI scanner (a pretty expensive instrument!).  
+* This example uses the MRI scanner for the iconic guitar riff in Smoke on the Water by Deep Purple: <https://www.youtube.com/watch?v=CH9f8tcMAIQ>
+* Intro by The XX - an MRI Cover, with some nice visualization as well: <https://youtu.be/XX0UGblIwMM?si=tas3EAz_aQtmNmA9>
+* The Root Beer Rag by Billy Joel <https://youtu.be/1LgHAANKGrk?si=8UMZXUdI9ExjjIXb>
+* There is another beautiful example of MR fingerprinting, a quantitative imaging technique, making music while actually also producing good quality data:
+Ma, D., Pierre, E.Y., Jiang, Y., Schluchter, M.D., Setsompop, K., Gulani, V. and Griswold, M.A. (2016), Music-based magnetic resonance fingerprinting to improve patient comfort during MRI examinations. Magn. Reson. Med., 75: 2303-2314. <https://doi.org/10.1002/mrm.25818> 
 [Bach's Cello Suite No. 1, based on a recording by Yo-Yo Ma, played on a MRI scanner](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fmrm.25818&file=mrm25818-sup-0006-suppinfo06.mp3)
