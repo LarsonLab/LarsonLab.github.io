@@ -5,8 +5,7 @@ permalink: /researchprojects
 comments: false
 ---
 
-<details>
-<summary><h3>Hyperpolarized Carbon-13 MRI: Methods</h3></summary>
+### Hyperpolarized Carbon-13 MRI: Methods
 
 Hyperpolarized Carbon-13 MRI is a relatively novel imaging method of collecting in vivo metabolic information in a minimally invasive imaging procedure. Applications for this technique span various anatomical organs, including: cardiac, kidneys, brain, liver, pancreas, and clinical significances, such as: disease and cancer staging, response to therapy and surgical planning. UCSF pioneered this work with the first in vivo human study in 2013 and continues to be a strong leader in the field. Our group currently focuses on kidney and cardiac applications as well as development of acquisition methods and analysis tools to improve speed/SNR of imaging procedures and quantification of results.  
 
@@ -25,10 +24,7 @@ The dynamic metabolite maps acquired after reconstruction provide relative measu
 1. Tang S, Milshteyn E, Reed G, Gordon J, Bok R, Zhu X, Zhu Z, Vigneron DB, Larson PEZ. A regional bolus tracking and real-time B1 calibration method for hyperpolarized 13 C MRI. Magn Reson Med. 2019 Feb;81(2):839-851. doi: 10.1002/mrm.27391. Epub 2018 Sep 18. PMID: 30277268; PMCID: PMC6289616.
 2. Larson PEZ, Chen HY, Gordon JW, Korn N, Maidens J, Arcak M, Tang S, Criekinge M, Carvajal L, Mammoli D, Bok R, Aggarwal R, Ferrone M, Slater JB, Nelson SJ, Kurhanewicz J, Vigneron DB. Investigation of analysis methods for hyperpolarized 13C-pyruvate metabolic MRI in prostate cancer patients. NMR Biomed. 2018 Nov;31(11):e3997. doi: 10.1002/nbm.3997. Epub 2018 Sep 19. PMID: 30230646; PMCID: PMC6392436.
 
-</details>
-
-<details>
-<summary><h3>Hyperpolarized Carbon-13 MRI: Kidney Studies</h3></summary>
+### Hyperpolarized Carbon-13 MRI: Kidney Studies
 
 Chronic kidney disease and kidney cancer are two diametrically opposed pathologies but are connected in a number of ways and both pose significant public health challenges. UCSF Medical Center is a top 10 hospital in the nation and the best in Northern California for kidney care and each of its locations treats a large number of patients with kidney disease and kidney cancer. The wide-spread use of computed tomography (CT), ultrasound imaging (US) and magnetic resonance imaging (MRI) has led to an improvement on kidney disease and kidney cancer detection. However, the noninvasive prediction of renal tumor aggressiveness and rejection of kidney allograft remain a challenge with conventional imaging. As a highly energy dependent organ, the kidney requires mitochondrial oxidative phosphorylation and ATP generation for essential renal functions and protection against injury. Altered energy metabolism plays a central role in various kidney diseases and can be detected by hyperpolarized (HP) 13C metabolic MRI. To meet the clinical needs in kidney disease, our group is developing and applying HP 13C pyruvate MRI in patients with renal cell carcinoma (RCC) and patients with transplanted kidneys to identify novel imaging techniques and develop them into practical, useful diagnostic tools under the leadership of Drs. Jane Wang and Peder Larson.
 
@@ -42,10 +38,7 @@ For the research on patients with transplanted kidneys, our group has presented 
 
 1. Tang S, Meng M V., Slater JB, et al. Metabolic imaging with hyperpolarized 13C pyruvate magnetic resonance imaging in patients with renal tumors—Initial experience. Cancer. 2021;127(15):2693-2704. doi:10.1002/cncr.33554
 
-</details>
-
-<details>
-<summary><h3>Hyperpolarized Carbon-13 MRI: Cardiac Studies</h3></summary>
+### Hyperpolarized Carbon-13 MRI: Cardiac Studies
 
 UCSF is one of six sites conducting hyperpolarized 13C cardiac MRI experiments, comparing healthy volunteers to hypertrophic cardiomyopathy (HCM) patients in collaboration with Dr. Roselle Abraham’s HCM clinic, a designated Center of Excellence. Hyperpolarized 13C offers a distinct advantage over FDG-PET, CEST, and 1H MRS, enabling the assessment of multiple metabolic pathways and the tracking of pyruvate-to-lactate and pyruvate-to-bicarbonate flux in a quick, non-invasive manner. Given that HCM is considered a metabolic disease, insights into various metabolic phenotypes and genotypes provide a foundation for tailored therapies. 
 
@@ -59,10 +52,7 @@ Kinetic rate maps in healthy volunteers before and after oral glucose load, over
 1. Chen, Hsin-Yu, Jeremy W. Gordon, Nicholas Dwork, Brian T. Chung, Andrew Riselli, Sanjay Sivalokanathan, Robert A. Bok, et al. “Probing Human Heart TCA Cycle Metabolism and Response to Glucose Load Using Hyperpolarized [2-13C]Pyruvate MRS.” NMR in Biomedicine (2023): e5074. <https://doi.org/10.1002/nbm.5074>
 2. Larson, Peder E. Z., Shuyu Tang, Xiaoxi Liu, Avantika Sinha, Nicholas Dwork, Sanjay Sivalokanathan, Jing Liu, et al. “Regional Quantification of Cardiac Metabolism with Hyperpolarized [1-13C]-Pyruvate CMR Evaluated in an Oral Glucose Challenge.” Journal of Cardiovascular Magnetic Resonance 25, no. 1 (December 14, 2023): 77. <https://doi.org/10.1186/s12968-023-00972-7>
 
-</details>
-
-<details>
-<summary><h3>Lung MRI</h3></summary>
+### Lung MRI
 
 MRI of the lungs has the potential to provide a range of anatomical and functional information to characterize the composition, structure, ventilation and perfusion. Use of pulmonary MRI is limited by relatively low signal due to the lower tissue density, artifacts and rapid signal decay rates due to magnetic susceptibility differences between tissue and air in the lungs, and tissue motion.
 
@@ -83,10 +73,7 @@ Motion-compensated low-rank (MoCoLoR) reconstructions of UTE Lung MRI data acros
 3. Tan, Fei, Xucheng Zhu, Marilynn Chan, Matthew A. Zapala, Shreyas S. Vasanawala, Frank Ong, Michael Lustig, and Peder E. Z. Larson. “Motion-Compensated Low-Rank Reconstruction for Simultaneous Structural and Functional UTE Lung MRI.” Magnetic Resonance in Medicine 90, no. 3 (2023): 1101–13. <https://doi.org/10.1002/mrm.29703>  
 <https://github.com/PulmonaryMRI/MoCoLoR>
 
-</details>
-
-<details>
-<summary><h3>Myelin Imaging by UTE MRI</h3></summary>
+### Myelin Imaging by UTE MRI
 
 The myelin sheath plays an important role in normal brain function and development by facilitating long-range conduction of electrical impulses across the brain and protecting nerve fibers from injury. Loss or damage of myelin is implicated in numerous neurological disorders, including the neurodegenerative disease of multiple sclerosis (MS) associated with gross white matter damage and characteristic foci of demyelination. The benefits of myelin imaging include, myelination monitoring during aging in healthy subjects, early detection of demyelination, and assessing the treatment and re-myelination process in patients. However, due to the specific chemical environment of the bilayer-bound protons, 75% of the myelin lipid protons have T2 values well below 1 ms, which lead to magnetization decay too fast to be captured by conventional MRI techniques with TEs of milliseconds or longer.
 
@@ -99,10 +86,7 @@ We are working to develop and apply novel UTE MRI sequences and/or post-processi
 1. Boucneau, Tanguy, Peng Cao, Shuyu Tang, Misung Han, Duan Xu, Roland G. Henry, and Peder E. Z. Larson. “In Vivo Characterization of Brain Ultrashort-T2 Components.” Magnetic Resonance in Medicine 80, no. 2 (August 1, 2018): 726–35. <https://doi.org/10.1002/mrm.27037>
 2. Deveshwar, Nikhil, Jingwen Yao, Misung Han, Nicholas Dwork, Xin Shen, Emil Ljungberg, Eduardo Caverzasi, et al. “Quantification of the in Vivo Brain Ultrashort-T2 * Component in Healthy Volunteers.” Magnetic Resonance in Medicine, January 30, 2024. <https://doi.org/10.1002/mrm.30013>
 
-</details>
-
-<details>
-<summary><h3>PET/MR and PET Methods</h3></summary>
+### PET/MR and PET Methods
 
 Positron emission tomography (PET) provides valuable information about tissue function such as metabolism, perfusion, and more. Hybrid PET/MRI systems are recently introduced commercially, and combine the functional information from PET tracers with the soft-tissue contrast from MRI. For PET/MR we have worked on motion management, quantitative imaging, and image reconstruction, and several of these techniques have broad applicability for PET.
 
@@ -117,10 +101,7 @@ PET/MRI reconstruction integrating MR-based attenuation correction maps and thei
 2. Yang, Jaewon, Mehdi Khalighi, Thomas A. Hope, Karen Ordovas, and Youngho Seo. “Technical Note: Fast Respiratory Motion Estimation Using Sorted Singles without Unlist Processing: A Feasibility Study.” Medical Physics 44, no. 5 (May 1, 2017): 1632–37. <https://doi.org/10.1002/mp.12115>
 3. Rajagopal, Abhejit, Yutaka Natsuaki, Kristen Wangerin, Mahdjoub Hamdi, Hongyu An, John J. Sunderland, Richard Laforest, Paul E. Kinahan, Peder E. Z. Larson, and Thomas A. Hope. “Synthetic PET via Domain Translation of 3-D MRI.” IEEE Transactions on Radiation and Plasma Medical Sciences 7, no. 4 (April 2023): 333–43. <https://doi.org/10.1109/TRPMS.2022.3223275>
 
-</details>
-
-<details>
-<summary><h3>Image Reconstruction</h3></summary>
+### Image Reconstruction
 
 MR images are obtained in the frequency domain, or k-space, and are transformed, typically with a FFT to generate images for research and diagnostic purposes. However, since MRI is a  slower imaging modality compared to its peers like CT, recent research looked to develop methods to speed up the reconstruction process which can broadly be defined as model-based and deep learning based.
 
@@ -137,10 +118,7 @@ Our research group has experience in developing and applying both types of metho
 1. Leynes, Andrew P., Nikhil Deveshwar, Srikantan S. Nagarajan, and Peder E. Z. Larson. “Scan-Specific Self-Supervised Bayesian Deep Non-Linear Inversion for Undersampled MRI Reconstruction.” arXiv, December 9, 2023. <https://doi.org/10.48550/arXiv.2203.00361>
 2. Deveshwar, Nikhil, Abhejit Rajagopal, Sule Sahin, Efrat Shimron, and Peder E. Z. Larson. “Synthesizing Complex-Valued Multicoil MRI Data from Magnitude-Only Images.” Bioengineering 10, no. 3 (March 2023): 358. <https://doi.org/10.3390/bioengineering10030358>
 
-</details>
-
-<details>
-<summary><h3>AI Methods for Cancer Imaging</h3></summary>
+### AI Methods for Cancer Imaging
 
 Biomedical imaging is an integral part of the management of cancer, from diagnosis to staging and monitoring response to treatments. Modern computer vision and AI techniques are set to revolutionize cancer imaging. We believe there are significant opportunities to create more reproducible assessments, automated quantifications of disease, and even discover new imaging characteristics of aggressive disease.
 
@@ -152,5 +130,3 @@ We are also exploring projects using other imaging modalities where UCSF has sig
 
 1. Rajagopal, Abhejit, Antonio C. Westphalen, Nathan Velarde, Tim Ullrich, Jeffry P. Simko, Hao Nguyen, Thomas A. Hope, Peder E. Z. Larson, and Kirti Magudia. “Mixed Supervision of Histopathology Improves Prostate Cancer Classification from MRI.” arXiv, December 12, 2022. <https://doi.org/10.48550/arXiv.2212.06336>
 2. Rajagopal, Abhejit, Ekaterina Redekop, Anil Kemisetti, Rushikesh Kulkarni, Steven Raman, Karthik Sarma, Kirti Magudia, Corey W. Arnold, and Peder E. Z. Larson. “Federated Learning with Research Prototypes: Application to Multi-Center MRI-Based Detection of Prostate Cancer with Diverse Histopathology.” Academic Radiology, Special Issue: Adapting after COVID, 30, no. 4 (April 1, 2023): 644–57. <https://doi.org/10.1016/j.acra.2023.02.012>
-
-</details>
