@@ -2,7 +2,7 @@
 layout: post
 title:  "Tabletop MRI for Education - Initial Experience"
 author: peder
-categories: [ fun ]
+categories: [ education ]
 image: assets/images/ilumr_larson-lab.jpg
 featured: true
 ---
