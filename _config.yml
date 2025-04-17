@@ -29,6 +29,13 @@ authors:
     git_name: jescholey
     twitter: https://twitter.com/jescholey
     description: "Applying Advanced Imaging to Radiation Oncology"
+
+  fei:
+    name: Fei Tan
+    display_name: Fei Tan
+    git_name: Phillistan16
+    description: "Lung MRI Expert"
+
 # Plugins
 plugins:
   - jekyll-paginate
