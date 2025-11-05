@@ -37,6 +37,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
   - jekyll-twitter-plugin
+  - jekyll-toc
     
 # Archives
 jekyll-archives:
