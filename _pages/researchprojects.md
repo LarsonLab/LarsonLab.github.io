@@ -5,6 +5,8 @@ permalink: /researchprojects
 comments: false
 ---
 
+{% toc %}
+
 ### Hyperpolarized Carbon-13 MRI: Methods
 
 Hyperpolarized Carbon-13 MRI is a relatively novel imaging method of collecting in vivo metabolic information in a minimally invasive imaging procedure. Applications for this technique span various anatomical organs, including: cardiac, kidneys, brain, liver, pancreas, and clinical significances, such as: disease and cancer staging, response to therapy and surgical planning. UCSF pioneered this work with the first in vivo human study in 2013 and continues to be a strong leader in the field. Our group currently focuses on kidney and cardiac applications as well as development of acquisition methods and analysis tools to improve speed/SNR of imaging procedures and quantification of results.  
