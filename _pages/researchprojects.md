@@ -66,12 +66,9 @@ Illustration of the iterative motion-compensation (iMoCo) reconstruction for UTE
 ![Lung MRI 2](../assets/images/research_projects/lung_mri_2.jpg)
 Motion-compensated low-rank (MoCoLoR) reconstructions of UTE Lung MRI data across a range of patient research subjects with various ages, body sizes, and pathologies [3].
 
-1. Jiang, Wenwen, Frank Ong, Kevin M Johnson, Scott K Nagle, Thomas A Hope, Michael Lustig, and Peder E.Z. Larson. “Motion Robust High Resolution 3D Free-Breathing Pulmonary MRI Using Dynamic 3D Image Self-Navigator.” Magnetic Resonance in Medicine, n.d., n/a-n/a. <https://doi.org/10.1002/mrm.26958>  
-<https://github.com/PulmonaryMRI/pulmonary-MRI-reconstruction>
-2. Zhu, Xucheng, Marilynn Chan, Michael Lustig, Kevin M. Johnson, and Peder E. Z. Larson. “Iterative Motion-Compensation Reconstruction Ultra-Short TE (iMoCo UTE) for High-Resolution Free-Breathing Pulmonary MRI.” Magnetic Resonance in Medicine 83, no. 4 (2020): 1208–21. <https://doi.org/10.1002/mrm.27998>  
-<https://github.com/PulmonaryMRI/imoco_recon>
-3. Tan, Fei, Xucheng Zhu, Marilynn Chan, Matthew A. Zapala, Shreyas S. Vasanawala, Frank Ong, Michael Lustig, and Peder E. Z. Larson. “Motion-Compensated Low-Rank Reconstruction for Simultaneous Structural and Functional UTE Lung MRI.” Magnetic Resonance in Medicine 90, no. 3 (2023): 1101–13. <https://doi.org/10.1002/mrm.29703>  
-<https://github.com/PulmonaryMRI/MoCoLoR>
+1. Jiang, Wenwen, Frank Ong, Kevin M Johnson, Scott K Nagle, Thomas A Hope, Michael Lustig, and Peder E.Z. Larson. “Motion Robust High Resolution 3D Free-Breathing Pulmonary MRI Using Dynamic 3D Image Self-Navigator.” Magnetic Resonance in Medicine, n.d., n/a-n/a. <https://doi.org/10.1002/mrm.26958>  <https://github.com/PulmonaryMRI/pulmonary-MRI-reconstruction>
+2. Zhu, Xucheng, Marilynn Chan, Michael Lustig, Kevin M. Johnson, and Peder E. Z. Larson. “Iterative Motion-Compensation Reconstruction Ultra-Short TE (iMoCo UTE) for High-Resolution Free-Breathing Pulmonary MRI.” Magnetic Resonance in Medicine 83, no. 4 (2020): 1208–21. <https://doi.org/10.1002/mrm.27998>  <https://github.com/PulmonaryMRI/imoco_recon>
+3. Tan, Fei, Xucheng Zhu, Marilynn Chan, Matthew A. Zapala, Shreyas S. Vasanawala, Frank Ong, Michael Lustig, and Peder E. Z. Larson. “Motion-Compensated Low-Rank Reconstruction for Simultaneous Structural and Functional UTE Lung MRI.” Magnetic Resonance in Medicine 90, no. 3 (2023): 1101–13. <https://doi.org/10.1002/mrm.29703>  <https://github.com/PulmonaryMRI/MoCoLoR>
 
 ### Myelin Imaging by UTE MRI
 
