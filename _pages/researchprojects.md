@@ -5,7 +5,7 @@ permalink: /researchprojects
 comments: false
 ---
 
-{% toc %}
+{% include toc.html html=content %}
 
 ### Hyperpolarized Carbon-13 MRI: Methods
 
