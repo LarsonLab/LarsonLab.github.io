@@ -37,6 +37,7 @@ For the research on patients with transplanted kidneys, our group has presented 
 ![HP Kidney 2](../assets/images/research_projects/hp_kidney2.png)
 
 1. Tang S, Meng M V., Slater JB, et al. Metabolic imaging with hyperpolarized 13C pyruvate magnetic resonance imaging in patients with renal tumors—Initial experience. Cancer. 2021;127(15):2693-2704. doi:10.1002/cncr.33554
+2. Liu X, Lai YC, Cui D, et al. Initial experience of metabolic imaging with hyperpolarized [1‐13C] pyruvate MRI in kidney transplant patients. Journal of Magnetic Resonance Imaging. 2025 Apr;61(4):1969-78. doi: 10.1002/jmri.29580
 
 ### Hyperpolarized Carbon-13 MRI: Cardiac Studies
 
