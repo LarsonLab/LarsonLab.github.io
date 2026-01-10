@@ -11,7 +11,7 @@ For the last 15(!) years I’ve been teaching an introductory MRI course to grad
 
 [Principles of MRI](https://larsonlab.github.io/MRI-education-resources/Introduction.html)
 
-I just finished my first year relying solely on this book, and am writing this to share my justification for creating a new book, my experience using it, and also to encourage feedback.  You can also read my previous post about teaching MRI which includes some similar discussion points [Learning MRI (with lectures too)](./2022-01-11-Learning-Principles-of-MRI.md).
+I just finished my first year relying solely on this book, and am writing this to share my justification for creating a new book, my experience using it, and also to encourage feedback.  You can also read my previous post about teaching MRI which includes some similar discussion points [Learning MRI (with lectures too)](../Learning-Principles-of-MRI/).
 
 ## Finding a Book Suitable for Engineers, Physicists, Biologists, Chemists, Neuroscientists, and More
 
@@ -50,4 +50,4 @@ You can message me or leave a GitHub issue with comments, or even create a pull 
 
 I still have some self doubt about this book.  I wonder if it really was worth it, and whether I should have stuck with, for example, Dwight Nishimura's book, and provided any supplementary materials needed to support this.  I worry I have made errors that will propagate!  But I also really had a lot of fun creating this book, so maybe that in itself makes it worth it.
 
-I am in the midst of the next evolution of the course to include significant demonstrations using the [Ilumr](https://resonint.com/ilumr) tabletop MRI system. You can read about my experience [Tabletop MRI for Education - Teaching Experience](./2025-02-05-Tabletop_MRI_Education.md), and I aspire to release descriptions of demos I do on this scanner in class that can accompany the book.
+I am in the midst of the next evolution of the course to include significant demonstrations using the [Ilumr](https://resonint.com/ilumr) tabletop MRI system. You can read about my experience [Tabletop MRI for Education - Teaching Experience](../Tabletop_MRI_Education/), and I aspire to release descriptions of demos I do on this scanner in class that can accompany the book.
