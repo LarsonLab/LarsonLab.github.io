@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sharing Our Prostate MRI Dataset"
-author: peder
+author: kirti, peder
 categories: [ research ]
 image: assets/images/UCSF-ProstateMR_logo.png
 featured: true
@@ -12,7 +12,6 @@ We are proud to announce the public release of our UCSF Prostate MRI dataset, wh
 The dataset link is below, along with a repository containing curation code and tutorials for how to use the dataset.  Read below for my thoughts on the experience and data.
 
 - [UCSF Imaging Datasets – UCSF-ProstateMR](https://imagingdatasets.ucsf.edu/dataset/5)
-- [AWS Open Data Registry – UCSF-ProstateMR](https://registry.opendata.aws/ucsf-prostatemr/)
 - [GitHub – LarsonLab/UCSF-ProstateMR](https://github.com/LarsonLab/UCSF-ProstateMR)
 
 ![Example Data](../assets/images/UCSF-ProstateMR_sample-images.png)
@@ -86,13 +85,13 @@ https://pmc.ncbi.nlm.nih.gov/articles/PMC10869141/
 [PI-CAI](https://pi-cai.org/) (Prostate Imaging: Cancer AI) is a multi-institutional collaboration to develop AI tools for prostate cancer detection and classification.  We were quite excited when we were approached by the PI-CAI team to contribute our dataset as an external validation dataset.  The study protocol was published on ArXiv, and the first results are just about to come out in publications.  Please look out for them!
 
 ```
-Saha et al.
-Artificial Intelligence for Prostate Cancer Diagnosis and Screening on MRI in Global Populations: The SCARLET-1 Study
-Radiology
+Saha et al. (2026)
+Artificial Intelligence for Prostate Cancer Diagnosis and Screening on MRI in Global Populations: The SCARLET-1 Study.
+Radiology, In Press.
 ```
 ```
 Saha, A., Bosma, J. S., Twilt, J. J., et al. (2025). 
-Scaling Artificial Intelligence for Prostate Cancer Detection on MRI towards Organized Screening and Primary Diagnosis in a Global, Multiethnic Population (Study Protocol)
+Scaling Artificial Intelligence for Prostate Cancer Detection on MRI towards Organized Screening and Primary Diagnosis in a Global, Multiethnic Population (Study Protocol).
 https://doi.org/10.48550/arXiv.2508.03762
 ```
 
