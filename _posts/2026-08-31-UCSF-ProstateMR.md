@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sharing Our Prostate MRI Dataset"
-author: kirti, peder
+author: kirti
 categories: [ research ]
 image: assets/images/UCSF-ProstateMR_logo.png
 featured: true
